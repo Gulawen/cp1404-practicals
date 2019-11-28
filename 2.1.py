@@ -1,0 +1,1 @@
+num = int(input("pls the et"))
