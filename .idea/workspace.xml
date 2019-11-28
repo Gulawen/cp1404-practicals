@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="72b46738-20e0-4225-aa1c-d4d5aee2ffd1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/1404/prc3/3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1404/prc3/4.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1404/prc3/2.py" beforeDir="false" afterPath="$PROJECT_DIR$/1404/prc3/2.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -37,11 +36,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/1404/prc3/3.py">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="14" selection-start-column="14" selection-end-column="14" />
+              <caret column="10" lean-forward="true" selection-start-column="10" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/1404/prc3/4.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="5" selection-start-column="5" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -78,7 +86,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/prc5.py" />
         <option value="$PROJECT_DIR$/prc5 1.py" />
         <option value="$PROJECT_DIR$/prc5 2.py" />
         <option value="$PROJECT_DIR$/prc5 3.py" />
@@ -129,6 +136,7 @@
         <option value="$PROJECT_DIR$/1404/prc3/1.py" />
         <option value="$PROJECT_DIR$/1404/prc3/2.py" />
         <option value="$PROJECT_DIR$/1404/prc3/3.py" />
+        <option value="$PROJECT_DIR$/1404/prc3/4.py" />
       </list>
     </option>
   </component>
@@ -412,12 +420,27 @@
       <workItem from="1574916472802" duration="910000" />
       <workItem from="1574925343180" duration="494000" />
       <workItem from="1574925995448" duration="1504000" />
-      <workItem from="1574928696714" duration="543000" />
+      <workItem from="1574928696714" duration="781000" />
     </task>
+    <task id="LOCAL-00001" summary="hhhh">
+      <created>1574929270564</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1574929270564</updated>
+    </task>
+    <task id="LOCAL-00002" summary="uuuuuuuuuu">
+      <created>1574929339655</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1574929339655</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="171985000" />
+    <option name="totallyTimeSpent" value="172223000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -474,6 +497,11 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="hhhh" />
+    <MESSAGE value="uuuuuuuuuu" />
+    <option name="LAST_COMMIT_MESSAGE" value="uuuuuuuuuu" />
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/pycharm$prc5_4.coverage" NAME="prc5 4 Coverage Results" MODIFIED="1567137733662" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pycharm$prc5_1.coverage" NAME="prc5 1 Coverage Results" MODIFIED="1567047566405" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -528,7 +556,6 @@
     <SUITE FILE_PATH="coverage/pycharm$prc6_1.coverage" NAME="prc6 1 Coverage Results" MODIFIED="1567041505600" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Prac10 1.py" />
     <entry file="file://$PROJECT_DIR$/4.py" />
     <entry file="file://$PROJECT_DIR$/3.py" />
     <entry file="file://$PROJECT_DIR$/2.py" />
@@ -693,7 +720,14 @@
     <entry file="file://$PROJECT_DIR$/1404/prc3/3.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="14" selection-start-column="14" selection-end-column="14" />
+          <caret column="10" lean-forward="true" selection-start-column="10" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1404/prc3/4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="5" selection-start-column="5" selection-end-column="5" />
         </state>
       </provider>
     </entry>
