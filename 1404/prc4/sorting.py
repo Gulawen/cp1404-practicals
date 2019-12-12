@@ -15,8 +15,8 @@ data = [['Derek', 7], ['Carrie', 7], ['Bob', 6], ['Aaron', 6]]
 data.sort(key=itemgetter(1, 0))
 print(data)
 
-#TODO: sort the following list of tuples by last name then first name
+# TODO: sort the following list of tuples by last name then first name
 items = [('123', 'Derek', 'Smith', 7), ('124', 'Carrie', 'Brown', 7),
          ('125', 'Bob', 'Smith', 6), ('126', 'Aaron', 'Hewitt', 6)]
-
+# ??
 print(items)
