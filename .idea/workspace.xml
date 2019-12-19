@@ -1,9 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="72b46738-20e0-4225-aa1c-d4d5aee2ffd1" name="Default Changelist" comment="">
+    <list default="true" id="72b46738-20e0-4225-aa1c-d4d5aee2ffd1" name="Default Changelist" comment="final">
+      <change afterPath="$PROJECT_DIR$/CP1404/prac_06/languages.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CP1404/prac_06/programming_language.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assessment/assignment-01-Gulawen/assignment1.py" beforeDir="false" afterPath="$PROJECT_DIR$/assessment/assignment-01-Gulawen/assignment1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1404/Practical 2/Capitalist Conrad/capitalist_conrad.py" beforeDir="false" afterPath="$PROJECT_DIR$/CP1404/Practical 2/Capitalist Conrad/capitalist_conrad.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1404/Practical 2/Capitalist Conrad/money.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CP1404/Practical 2/Capitalist Conrad/money.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1404/Practical 2/Exception Demo/exceptions_Demo.py" beforeDir="false" afterPath="$PROJECT_DIR$/CP1404/Practical 2/Exception Demo/exceptions_Demo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1404/Practical 2/Exception/exceptions_to_complete.py" beforeDir="false" afterPath="$PROJECT_DIR$/CP1404/Practical 2/Exception/exceptions_to_complete.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1404/Practical 2/Files/files.py" beforeDir="false" afterPath="$PROJECT_DIR$/CP1404/Practical 2/Files/files.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1404/Practical 2/Files/name.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CP1404/Practical 2/Files/name.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1404/Practical 2/Files/numbers.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CP1404/Practical 2/Files/numbers.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1404/Practical 2/Password/password_checker.py" beforeDir="false" afterPath="$PROJECT_DIR$/CP1404/Practical 2/Password/password_checker.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1404/Practical 2/random/random.py" beforeDir="false" afterPath="$PROJECT_DIR$/CP1404/Practical 2/random/random.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1404/prac_06/car.py" beforeDir="false" afterPath="$PROJECT_DIR$/CP1404/prac_06/car.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1404/prac_06/used_cars.py" beforeDir="false" afterPath="$PROJECT_DIR$/CP1404/prac_06/used_cars.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1404/prc1/broken_score.py" beforeDir="false" afterPath="$PROJECT_DIR$/CP1404/prc1/broken_score.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1404/prc1/check.py" beforeDir="false" afterPath="$PROJECT_DIR$/CP1404/prc1/check.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1404/prc1/hello.py" beforeDir="false" afterPath="$PROJECT_DIR$/CP1404/prc1/hello.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1404/prc1/loops.py" beforeDir="false" afterPath="$PROJECT_DIR$/CP1404/prc1/loops.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1404/prc1/sales_bonus.py" beforeDir="false" afterPath="$PROJECT_DIR$/CP1404/prc1/sales_bonus.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1404/prc1/shop_calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/CP1404/prc1/shop_calculator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1404/prc1/temperatures.py" beforeDir="false" afterPath="$PROJECT_DIR$/CP1404/prc1/temperatures.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1404/prc2/capitalist_conrad.py.py" beforeDir="false" afterPath="$PROJECT_DIR$/CP1404/prc2/capitalist_conrad.py.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1404/prc2/exceptions_demo.py" beforeDir="false" afterPath="$PROJECT_DIR$/CP1404/prc2/exceptions_demo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1404/prc2/exceptions_to_complete.py" beforeDir="false" afterPath="$PROJECT_DIR$/CP1404/prc2/exceptions_to_complete.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1404/prc2/files.py" beforeDir="false" afterPath="$PROJECT_DIR$/CP1404/prc2/files.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1404/prc2/name.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CP1404/prc2/name.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1404/prc2/number.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CP1404/prc2/number.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1404/prc2/password_checker.py" beforeDir="false" afterPath="$PROJECT_DIR$/CP1404/prc2/password_checker.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1404/prc2/prc2.zip" beforeDir="false" afterPath="$PROJECT_DIR$/CP1404/prc2/prc2.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1404/prc2/randoms.py" beforeDir="false" afterPath="$PROJECT_DIR$/CP1404/prc2/randoms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1404/prc2/string_formatting.py" beforeDir="false" afterPath="$PROJECT_DIR$/CP1404/prc2/string_formatting.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1404/prc2/word_generator.py" beforeDir="false" afterPath="$PROJECT_DIR$/CP1404/prc2/word_generator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1404/prc3/1.py" beforeDir="false" afterPath="$PROJECT_DIR$/CP1404/prc3/1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1404/prc3/2.py" beforeDir="false" afterPath="$PROJECT_DIR$/CP1404/prc3/2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1404/prc3/3.py" beforeDir="false" afterPath="$PROJECT_DIR$/CP1404/prc3/3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1404/prc3/4.py" beforeDir="false" afterPath="$PROJECT_DIR$/CP1404/prc3/4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1404/prc4/List_exercise.py" beforeDir="false" afterPath="$PROJECT_DIR$/CP1404/prc4/List_exercise.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1404/prc4/list_comprehensions.py" beforeDir="false" afterPath="$PROJECT_DIR$/CP1404/prc4/list_comprehensions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1404/prc4/lists_warmup.py" beforeDir="false" afterPath="$PROJECT_DIR$/CP1404/prc4/lists_warmup.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1404/prc4/quick_picks.py" beforeDir="false" afterPath="$PROJECT_DIR$/CP1404/prc4/quick_picks.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1404/prc4/sorting.py" beforeDir="false" afterPath="$PROJECT_DIR$/CP1404/prc4/sorting.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1404/prc4/total_income.py" beforeDir="false" afterPath="$PROJECT_DIR$/CP1404/prc4/total_income.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1404/prc5/hex_colours.py" beforeDir="false" afterPath="$PROJECT_DIR$/CP1404/prc5/hex_colours.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1404/prc5/state_names.py" beforeDir="false" afterPath="$PROJECT_DIR$/CP1404/prc5/state_names.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1404/prc5/word_occurences.py" beforeDir="false" afterPath="$PROJECT_DIR$/CP1404/prc5/word_occurences.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,40 +68,43 @@
     <expand />
     <select />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="pycharm" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1404/prc3/2.py">
+        <entry file="file://$PROJECT_DIR$/CP1404/prac_06/languages.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="7" selection-start-column="7" selection-end-column="7" />
+            <state relative-caret-position="190">
+              <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1404/prc3/3.py">
+        <entry file="file://$PROJECT_DIR$/CP1404/prac_06/programming_language.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="10" selection-start-column="10" selection-end-column="10" />
+            <state relative-caret-position="-95">
+              <caret line="2" column="65" selection-start-line="2" selection-start-column="65" selection-end-line="2" selection-end-column="65" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1404/prc3/4.py">
+        <entry file="file://$PROJECT_DIR$/CP1404/prac_06/car.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="5" selection-start-column="5" selection-end-column="5" />
+            <state relative-caret-position="285">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/assessment/assignment-01-Gulawen/assignment1.py">
+        <entry file="file://$PROJECT_DIR$/CP1404/prac_06/used_cars.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+            <state relative-caret-position="57">
+              <caret line="3" column="5" lean-forward="true" selection-start-line="3" selection-start-column="5" selection-end-line="4" />
             </state>
           </provider>
         </entry>
@@ -87,37 +133,19 @@
       <find>overall</find>
       <find>total_score = 0</find>
       <find>total_score</find>
+      <find>song_to_add</find>
+      <find>key=itemgetter</find>
+      <find>movie_data</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/assessment/assignment-01-Gulawen" />
+    <option name="ROOT_SYNC" value="SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_COMMON_BRANCH" value="master" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/prc5 2.py" />
-        <option value="$PROJECT_DIR$/prc5 3.py" />
-        <option value="$PROJECT_DIR$/prc5 4.py" />
-        <option value="$PROJECT_DIR$/prc5 5.py" />
-        <option value="$PROJECT_DIR$/prac7 1.py" />
-        <option value="$PROJECT_DIR$/prc7 2.py" />
-        <option value="$PROJECT_DIR$/prc8 2.py" />
-        <option value="$PROJECT_DIR$/prc8 3.py" />
-        <option value="$PROJECT_DIR$/prc8 1.py" />
-        <option value="$PROJECT_DIR$/prog3.py" />
-        <option value="$PROJECT_DIR$/prc8 5.py" />
-        <option value="$PROJECT_DIR$/prc8 4.py" />
-        <option value="$PROJECT_DIR$/pr9 1.py" />
-        <option value="$PROJECT_DIR$/draft.py" />
-        <option value="$PROJECT_DIR$/prc9 3.py" />
-        <option value="$PROJECT_DIR$/prc9 2.py" />
-        <option value="$USER_HOME$/Desktop/宝宝/part2task2.py" />
-        <option value="$USER_HOME$/Desktop/宝宝/part2task3.py" />
-        <option value="$USER_HOME$/Desktop/university/cp1401/task1.py" />
-        <option value="$USER_HOME$/Desktop/university/cp1401/task2.py" />
-        <option value="$USER_HOME$/Desktop/university/cp1401/task3.py" />
-        <option value="$USER_HOME$/Desktop/university/cp1401/task4.py" />
-        <option value="$USER_HOME$/Desktop/university/cp1401/task5.py" />
         <option value="$USER_HOME$/Desktop/university/cp1401/task6.py" />
         <option value="$USER_HOME$/Desktop/Prac10 1.py" />
         <option value="$PROJECT_DIR$/assessment2.py" />
@@ -145,14 +173,38 @@
         <option value="$PROJECT_DIR$/1404/prc3/2.py" />
         <option value="$PROJECT_DIR$/1404/prc3/3.py" />
         <option value="$PROJECT_DIR$/1404/prc3/4.py" />
+        <option value="$USER_HOME$/AppData/Local/Temp/Rar$DRa13972.25145/KunBoZhuA1/CP1404-SP532018-STARTER-A1/assignment1.py" />
+        <option value="$USER_HOME$/AppData/Local/Temp/Rar$DRa2596.37102/prac_03/brokern_score_fixed.py" />
+        <option value="$USER_HOME$/AppData/Local/Temp/Rar$DRa2596.37102/prac_03/convert_temps.py" />
+        <option value="$PROJECT_DIR$/1404/prc3/prac_03/temperatures.py" />
+        <option value="$PROJECT_DIR$/1404/prc3/prac_03/brokern_score_fixed.py" />
+        <option value="$PROJECT_DIR$/1404/prc3/prac_03/password_entry.py" />
+        <option value="$USER_HOME$/Desktop/CP1404a1--IoAdhitama/assignment1.py" />
+        <option value="$USER_HOME$/Desktop/CP1404a1--IoAdhitama/2.py" />
+        <option value="$PROJECT_DIR$/1404/prc4/lists_warmup.py" />
         <option value="$PROJECT_DIR$/assessment/assignment-01-Gulawen/assignment1.py" />
+        <option value="$PROJECT_DIR$/1404/prc5/word_occurences.py" />
+        <option value="$PROJECT_DIR$/1404/prc5/hex_colours.py" />
+        <option value="$PROJECT_DIR$/1404/prc5/state_names.py" />
+        <option value="$PROJECT_DIR$/1404/prc4/scores.py" />
+        <option value="$PROJECT_DIR$/1404/prc4/sorting.py" />
+        <option value="$PROJECT_DIR$/1404/prc6/car.py" />
+        <option value="$PROJECT_DIR$/1404/prc6/used_car.py" />
+        <option value="$PROJECT_DIR$/1404/prac_06/programming_language.py" />
+        <option value="$PROJECT_DIR$/1404/prac_06/languages.py" />
+        <option value="$PROJECT_DIR$/1404/prac_06/car.py" />
+        <option value="$PROJECT_DIR$/1404/prac_06/used_cars.py" />
+        <option value="$PROJECT_DIR$/CP1404/prac_06/used_cars.py" />
+        <option value="$PROJECT_DIR$/CP1404/prac_06/languages.py" />
+        <option value="$PROJECT_DIR$/CP1404/prac_06/programming_language.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="945" />
+    <option name="x" value="466" />
+    <option name="y" value="3" />
     <option name="width" value="980" />
-    <option name="height" value="1050" />
+    <option name="height" value="1048" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -160,6 +212,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -170,24 +223,13 @@
             <path>
               <item name="pycharm" type="b2602c69:ProjectViewProjectNode" />
               <item name="pycharm" type="462c0819:PsiDirectoryNode" />
-              <item name="1404" type="462c0819:PsiDirectoryNode" />
+              <item name="CP1404" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="pycharm" type="b2602c69:ProjectViewProjectNode" />
               <item name="pycharm" type="462c0819:PsiDirectoryNode" />
-              <item name="1404" type="462c0819:PsiDirectoryNode" />
-              <item name="prc3" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pycharm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pycharm" type="462c0819:PsiDirectoryNode" />
-              <item name="assessment" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pycharm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pycharm" type="462c0819:PsiDirectoryNode" />
-              <item name="assessment" type="462c0819:PsiDirectoryNode" />
-              <item name="assignment-01-Gulawen" type="462c0819:PsiDirectoryNode" />
+              <item name="CP1404" type="462c0819:PsiDirectoryNode" />
+              <item name="prac_06" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="pycharm" type="b2602c69:ProjectViewProjectNode" />
@@ -198,7 +240,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -206,7 +247,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/1404/assessment/cp1404-practicals" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -229,8 +270,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.string_formatting_examples">
-    <configuration name="exceptions_to_complete" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.programming_language">
+    <configuration name="hex_colours" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pycharm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -238,12 +279,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1404/prc2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1404/prc5" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1404/prc2/exceptions_to_complete.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1404/prc5/hex_colours.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -252,7 +293,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="files" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="languages" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pycharm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -260,12 +301,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1404/prc2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CP1404/prac_06" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1404/prc2/files.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CP1404/prac_06/languages.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -274,7 +315,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="randoms" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="programming_language" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pycharm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -282,12 +323,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1404/prc2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CP1404/prac_06" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1404/prc2/randoms.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CP1404/prac_06/programming_language.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -296,7 +337,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="string_formatting_examples" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="state_names" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pycharm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -304,12 +345,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1404/prc2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1404/prc5" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1404/prc2/string_formatting_examples.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1404/prc5/state_names.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -318,7 +359,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="word_generator" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="used_cars" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pycharm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -326,12 +367,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1404/prc2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1404/prac_06" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1404/prc2/word_generator.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1404/prac_06/used_cars.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -341,19 +382,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.files" />
-      <item itemvalue="Python.exceptions_to_complete" />
-      <item itemvalue="Python.randoms" />
-      <item itemvalue="Python.word_generator" />
-      <item itemvalue="Python.string_formatting_examples" />
+      <item itemvalue="Python.hex_colours" />
+      <item itemvalue="Python.state_names" />
+      <item itemvalue="Python.used_cars" />
+      <item itemvalue="Python.programming_language" />
+      <item itemvalue="Python.languages" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.string_formatting_examples" />
-        <item itemvalue="Python.word_generator" />
-        <item itemvalue="Python.randoms" />
-        <item itemvalue="Python.files" />
-        <item itemvalue="Python.exceptions_to_complete" />
+        <item itemvalue="Python.programming_language" />
+        <item itemvalue="Python.languages" />
+        <item itemvalue="Python.used_cars" />
+        <item itemvalue="Python.state_names" />
+        <item itemvalue="Python.hex_colours" />
       </list>
     </recent_temporary>
   </component>
@@ -441,7 +482,30 @@
       <workItem from="1574925343180" duration="494000" />
       <workItem from="1574925995448" duration="1504000" />
       <workItem from="1574928696714" duration="1594000" />
-      <workItem from="1574930963275" duration="33000" />
+      <workItem from="1574930963275" duration="204000" />
+      <workItem from="1575172219792" duration="5903000" />
+      <workItem from="1575252785100" duration="1019000" />
+      <workItem from="1575270387980" duration="221000" />
+      <workItem from="1575274859960" duration="2620000" />
+      <workItem from="1575361573658" duration="8495000" />
+      <workItem from="1575370394892" duration="3766000" />
+      <workItem from="1575374305213" duration="54000" />
+      <workItem from="1575374726454" duration="578000" />
+      <workItem from="1575432706229" duration="5622000" />
+      <workItem from="1575518882432" duration="355000" />
+      <workItem from="1575523730887" duration="656000" />
+      <workItem from="1575526570559" duration="5354000" />
+      <workItem from="1575617768800" duration="161000" />
+      <workItem from="1575627932124" duration="599000" />
+      <workItem from="1575678404475" duration="711000" />
+      <workItem from="1575784680651" duration="22000" />
+      <workItem from="1575867779594" duration="612000" />
+      <workItem from="1576045646556" duration="666000" />
+      <workItem from="1576134777285" duration="43000" />
+      <workItem from="1576134838133" duration="4082000" />
+      <workItem from="1576144532282" duration="677000" />
+      <workItem from="1576733338565" duration="598000" />
+      <workItem from="1576735769971" duration="8939000" />
     </task>
     <task id="LOCAL-00001" summary="hhhh">
       <created>1574929270564</created>
@@ -464,33 +528,161 @@
       <option name="project" value="LOCAL" />
       <updated>1574929501761</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="update url">
+      <created>1574931012669</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1574931012669</updated>
+    </task>
+    <task id="LOCAL-00005" summary="final">
+      <created>1575438679617</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1575438679617</updated>
+    </task>
+    <task id="LOCAL-00006" summary="final">
+      <created>1575518917736</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1575518917736</updated>
+    </task>
+    <task id="LOCAL-00007" summary="final">
+      <created>1575518973641</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1575518973641</updated>
+    </task>
+    <task id="LOCAL-00008" summary="final">
+      <created>1575519010675</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1575519010675</updated>
+    </task>
+    <task id="LOCAL-00009" summary="final">
+      <created>1575519230294</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1575519230294</updated>
+    </task>
+    <task id="LOCAL-00010" summary="final">
+      <created>1575523910119</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1575523910119</updated>
+    </task>
+    <task id="LOCAL-00011" summary="final">
+      <created>1575617882922</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1575617882922</updated>
+    </task>
+    <task id="LOCAL-00012" summary="final">
+      <created>1575679122877</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1575679122877</updated>
+    </task>
+    <task id="LOCAL-00013" summary="real final one">
+      <created>1575679173711</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1575679173711</updated>
+    </task>
+    <task id="LOCAL-00014" summary="the real final one">
+      <created>1575868370006</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1575868370006</updated>
+    </task>
+    <task id="LOCAL-00015" summary="final">
+      <created>1576138123083</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1576138123083</updated>
+    </task>
+    <task id="LOCAL-00016" summary="final">
+      <created>1576145123901</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1576145123901</updated>
+    </task>
+    <task id="LOCAL-00017" summary="final">
+      <created>1576145201248</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1576145201248</updated>
+    </task>
+    <task id="LOCAL-00018" summary="final">
+      <created>1576736050862</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1576736050862</updated>
+    </task>
+    <task id="LOCAL-00019" summary="final">
+      <created>1576736285257</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1576736285257</updated>
+    </task>
+    <task id="LOCAL-00020" summary="final">
+      <created>1576736393202</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1576736393202</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="173069000" />
+    <option name="totallyTimeSpent" value="224993000" />
+  </component>
+  <component name="TodoView" selected-index="1">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="1" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.1508043" />
+      <window_info id="Structure" order="0" sideWeight="0.5010571" side_tool="true" weight="0.19638069" />
+      <window_info id="Favorites" order="1" sideWeight="0.50141644" side_tool="true" weight="0.19638069" />
+      <window_info active="true" content_ui="combo" id="Project" order="2" sideWeight="0.49858356" visible="true" weight="0.20174263" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.042432815" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932975" weight="0.50636494" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49865952" visible="true" weight="0.28328612" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39886847" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.33002833" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50067025" side_tool="true" weight="0.3026874" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5013405" side_tool="true" weight="0.69688386" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.3286119" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.32956153" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.32956153" />
-      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="13" weight="0.32956153" />
+      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="13" weight="0.3286119" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -498,20 +690,20 @@
       <window_info anchor="right" id="Database" order="4" weight="0.3297587" />
     </layout>
     <layout-to-restore>
-      <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="1" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="2" visible="true" weight="0.12466488" />
+      <window_info id="Structure" order="0" sideWeight="0.5010571" side_tool="true" weight="0.19638069" />
+      <window_info id="Favorites" order="1" sideWeight="0.50141644" side_tool="true" weight="0.19638069" />
+      <window_info active="true" content_ui="combo" id="Project" order="2" sideWeight="0.49858356" visible="true" weight="0.20174263" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info active="true" anchor="bottom" id="Find" order="1" visible="true" weight="0.042432815" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49932975" visible="true" weight="0.50636494" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.042432815" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49865952" weight="0.28328612" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39886847" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.33002833" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50067025" side_tool="true" weight="0.3026874" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5013405" side_tool="true" weight="0.69688386" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.3286119" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.32956153" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.32956153" />
       <window_info anchor="bottom" id="Concurrent Activities Diagram" order="13" weight="0.32956153" />
@@ -529,7 +721,11 @@
     <MESSAGE value="hhhh" />
     <MESSAGE value="uuuuuuuuuu" />
     <MESSAGE value="a" />
-    <option name="LAST_COMMIT_MESSAGE" value="a" />
+    <MESSAGE value="update url" />
+    <MESSAGE value="real final one" />
+    <MESSAGE value="the real final one" />
+    <MESSAGE value="final" />
+    <option name="LAST_COMMIT_MESSAGE" value="final" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/pycharm$prc5_4.coverage" NAME="prc5 4 Coverage Results" MODIFIED="1567137733662" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -537,8 +733,10 @@
     <SUITE FILE_PATH="coverage/pycharm$string_formatting_examples.coverage" NAME="string_formatting_examples Coverage Results" MODIFIED="1574759549495" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1404/prc2" />
     <SUITE FILE_PATH="coverage/pycharm$assessment1.coverage" NAME="assessment1 Coverage Results" MODIFIED="1566105063849" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pycharm$prc6_2.coverage" NAME="prc6 2 Coverage Results" MODIFIED="1567042136238" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pycharm$lists_warmup.coverage" NAME="lists_warmup Coverage Results" MODIFIED="1575533533748" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1404/prc4" />
     <SUITE FILE_PATH="coverage/pycharm$prc5.coverage" NAME="prc5 Coverage Results" MODIFIED="1567045695364" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pycharm$pr9_1.coverage" NAME="pr9 1 Coverage Results" MODIFIED="1568251156355" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pycharm$assignment1__1_.coverage" NAME="assignment1 (1) Coverage Results" MODIFIED="1575528341431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/assessment/assignment-01-Gulawen" />
     <SUITE FILE_PATH="coverage/pycharm$part2task2.coverage" NAME="part2task2 Coverage Results" MODIFIED="1568694806961" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/宝宝" />
     <SUITE FILE_PATH="coverage/pycharm$task1__1_.coverage" NAME="task1 (1) Coverage Results" MODIFIED="1568778503829" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop" />
     <SUITE FILE_PATH="coverage/pycharm$sales_bonus.coverage" NAME="sales_bonus Coverage Results" MODIFIED="1573719384906" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1404/prc1" />
@@ -547,27 +745,34 @@
     <SUITE FILE_PATH="coverage/pycharm$prog3.coverage" NAME="prog3 Coverage Results" MODIFIED="1566448326044" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pycharm$prc8_4.coverage" NAME="prc8 4 Coverage Results" MODIFIED="1568098495043" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pycharm$Prac10_1.coverage" NAME="Prac10 1 Coverage Results" MODIFIED="1569210409665" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop" />
+    <SUITE FILE_PATH="coverage/pycharm$hex_colours.coverage" NAME="hex_colours Coverage Results" MODIFIED="1576137848400" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1404/prc5" />
     <SUITE FILE_PATH="coverage/pycharm$prc8_1.coverage" NAME="prc8 1 Coverage Results" MODIFIED="1567658607001" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pycharm$task3.coverage" NAME="task3 Coverage Results" MODIFIED="1569202055098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/university/cp1401" />
     <SUITE FILE_PATH="coverage/pycharm$word_generator.coverage" NAME="word_generator Coverage Results" MODIFIED="1574758291076" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1404/prc2" />
     <SUITE FILE_PATH="coverage/pycharm$3.coverage" NAME="3 Coverage Results" MODIFIED="1565837024809" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pycharm$task6.coverage" NAME="task6 Coverage Results" MODIFIED="1569203717408" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/university/cp1401" />
+    <SUITE FILE_PATH="coverage/pycharm$assignment1__2_.coverage" NAME="assignment1 (2) Coverage Results" MODIFIED="1575361699565" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/KunBoZhuA1/CP1404-SP532018-STARTER-A1" />
+    <SUITE FILE_PATH="coverage/pycharm$used_cars.coverage" NAME="used_cars Coverage Results" MODIFIED="1576736572186" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1404/prac_06" />
     <SUITE FILE_PATH="coverage/pycharm$prc6_3.coverage" NAME="prc6 3 Coverage Results" MODIFIED="1567043001130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pycharm$prac7_1.coverage" NAME="prac7 1 Coverage Results" MODIFIED="1567646554964" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pycharm$randoms.coverage" NAME="randoms Coverage Results" MODIFIED="1574754498540" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1404/prc2" />
     <SUITE FILE_PATH="coverage/pycharm$prc6_4.coverage" NAME="prc6 4 Coverage Results" MODIFIED="1567043393196" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pycharm$task2.coverage" NAME="task2 Coverage Results" MODIFIED="1568878860012" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/university/cp1401" />
+    <SUITE FILE_PATH="coverage/pycharm$state_names.coverage" NAME="state_names Coverage Results" MODIFIED="1576138573411" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1404/prc5" />
     <SUITE FILE_PATH="coverage/pycharm$temperatures.coverage" NAME="temperatures Coverage Results" MODIFIED="1573718737458" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/university/cp1404/week1/Practicals-master/prac_01" />
     <SUITE FILE_PATH="coverage/pycharm$prc8_5.coverage" NAME="prc8 5 Coverage Results" MODIFIED="1568095681729" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pycharm$shop_calculator.coverage" NAME="shop_calculator Coverage Results" MODIFIED="1573873784926" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1404/prc1" />
     <SUITE FILE_PATH="coverage/pycharm$prc5_3.coverage" NAME="prc5 3 Coverage Results" MODIFIED="1567092842651" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pycharm$4.coverage" NAME="4 Coverage Results" MODIFIED="1565838226783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pycharm$files.coverage" NAME="files Coverage Results" MODIFIED="1574422808871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1404/prc2" />
+    <SUITE FILE_PATH="coverage/pycharm$assignment1.coverage" NAME="assignment1 Coverage Results" MODIFIED="1575252837552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/AppData/Local/Temp/Rar$DRa13972.25145/KunBoZhuA1/CP1404-SP532018-STARTER-A1" />
+    <SUITE FILE_PATH="coverage/pycharm$word_occurences.coverage" NAME="word_occurences Coverage Results" MODIFIED="1576136740243" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1404/prc5" />
     <SUITE FILE_PATH="coverage/pycharm$task4.coverage" NAME="task4 Coverage Results" MODIFIED="1569202300825" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/university/cp1401" />
     <SUITE FILE_PATH="coverage/pycharm$loops.coverage" NAME="loops Coverage Results" MODIFIED="1573722431023" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1404/prc1" />
-    <SUITE FILE_PATH="coverage/pycharm$2.coverage" NAME="2 Coverage Results" MODIFIED="1565837171166" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pycharm$languages.coverage" NAME="languages Coverage Results" MODIFIED="1576742834585" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CP1404/prac_06" />
     <SUITE FILE_PATH="coverage/pycharm$prc8_3.coverage" NAME="prc8 3 Coverage Results" MODIFIED="1567652354506" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pycharm$task1.coverage" NAME="task1 Coverage Results" MODIFIED="1568808586924" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/university/cp1401" />
+    <SUITE FILE_PATH="coverage/pycharm$2.coverage" NAME="2 Coverage Results" MODIFIED="1575372662324" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/CP1404a1--IoAdhitama" />
     <SUITE FILE_PATH="coverage/pycharm$prc5_2.coverage" NAME="prc5 2 Coverage Results" MODIFIED="1567050025817" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pycharm$5.coverage" NAME="5 Coverage Results" MODIFIED="1565838199931" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pycharm$PBtask1.coverage" NAME="PBtask1 Coverage Results" MODIFIED="1567136740295" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/Prac5" />
@@ -582,187 +787,246 @@
     <SUITE FILE_PATH="coverage/pycharm$prc_3_.coverage" NAME="prc 3  Coverage Results" MODIFIED="1568808575123" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pycharm$exceptions_to_complete.coverage" NAME="exceptions_to_complete Coverage Results" MODIFIED="1574324959607" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1404/prc2" />
     <SUITE FILE_PATH="coverage/pycharm$1.coverage" NAME="1 Coverage Results" MODIFIED="1565685727664" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pycharm$programming_language.coverage" NAME="programming_language Coverage Results" MODIFIED="1576742919595" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CP1404/prac_06" />
     <SUITE FILE_PATH="coverage/pycharm$prc6_1.coverage" NAME="prc6 1 Coverage Results" MODIFIED="1567041505600" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/3.py" />
-    <entry file="file://$PROJECT_DIR$/2.py" />
-    <entry file="file://$PROJECT_DIR$/1.py" />
-    <entry file="file://$PROJECT_DIR$/prc5 1.py" />
-    <entry file="file://$PROJECT_DIR$/prc5 2.py" />
-    <entry file="file://$PROJECT_DIR$/prc5 3.py" />
-    <entry file="file://$PROJECT_DIR$/prc5 4.py" />
-    <entry file="file://$PROJECT_DIR$/prc5 5.py" />
-    <entry file="file://$PROJECT_DIR$/prc6 1.py" />
-    <entry file="file://$PROJECT_DIR$/prc8 4.py" />
-    <entry file="file://$PROJECT_DIR$/prc8 3.py" />
-    <entry file="file://$PROJECT_DIR$/prc8 2.py" />
-    <entry file="file://$PROJECT_DIR$/prc7 2.py" />
-    <entry file="file://$PROJECT_DIR$/prc8 1.py" />
-    <entry file="file://$PROJECT_DIR$/prc6 6.py" />
-    <entry file="file://$PROJECT_DIR$/prc6 5.py" />
-    <entry file="file://$PROJECT_DIR$/prc6 4.py" />
-    <entry file="file://$PROJECT_DIR$/prc6 3.py" />
-    <entry file="file://$PROJECT_DIR$/prc6 2.py" />
-    <entry file="file://$PROJECT_DIR$/2.1.py" />
-    <entry file="file://$PROJECT_DIR$/1404/hello.py" />
-    <entry file="file://$PROJECT_DIR$/1404/sales_bonus.py" />
-    <entry file="file://$PROJECT_DIR$/1404 1.py" />
-    <entry file="file://$USER_HOME$/Desktop/university/cp1404/week1/Practicals-master/prac_01/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="152">
-            <caret line="173" lean-forward="true" selection-start-line="173" selection-end-line="173" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/university/cp1404/week1/Practicals-master/prac_01/temperatures.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="37" selection-end-line="26" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/university/cp1404/week1/Practicals-master/prac_01/broken_score.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="33">
-          <caret line="7" selection-start-line="7" selection-end-line="15" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1404/prc1/loops.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1404/prc1/shop_calculator.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1404/prc1/temperatures.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="24" column="15" selection-start-line="24" selection-start-column="15" selection-end-line="24" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1404/prc1/check.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="22" column="25" lean-forward="true" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
-          <folding>
-            <element signature="e#289#313#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1404/prc1/broken_score.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1404/prc1/hello.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1404/prc1/sales_bonus.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assessment2.py" />
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DRa28604.40562/CP1404a1--IoAdhitama/assignment1.py" />
-    <entry file="file://$PROJECT_DIR$/1404/prc1/exceptions_demo.py" />
-    <entry file="file://$PROJECT_DIR$/1404/prc2/1404 1.py" />
-    <entry file="file://$PROJECT_DIR$/1404/prc2/files.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="19" column="34" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1404/prc2/string_formatting_examples.py" />
-    <entry file="file://$PROJECT_DIR$/1404/prc2/Capital.py" />
-    <entry file="file://$PROJECT_DIR$/1404/prc2/exceptions_demo.py">
+    <entry file="file://$PROJECT_DIR$/CP1404/prc2/exceptions_demo.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
           <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1404/prc2/password_checker.py">
+    <entry file="file://$PROJECT_DIR$/CP1404/prc2/password_checker.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="475">
           <caret line="25" column="24" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1404/prc2/randoms.py">
+    <entry file="file://$PROJECT_DIR$/CP1404/prc2/randoms.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
           <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1404/prc2/string_formatting.py">
+    <entry file="file://$PROJECT_DIR$/CP1404/prc2/string_formatting.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/1404/prc2/word_generator.py">
+    <entry file="file://$PROJECT_DIR$/CP1404/prc2/word_generator.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
           <caret line="21" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1404/prc2/exceptions_to_complete.py">
+    <entry file="file://$PROJECT_DIR$/CP1404/prc2/exceptions_to_complete.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
           <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1404/prc3/1.py">
+    <entry file="file://$PROJECT_DIR$/CP1404/prc3/1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="12" lean-forward="true" selection-start-column="12" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1404/prc3/2.py">
+    <entry file="file://$PROJECT_DIR$/CP1404/prc3/2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="7" selection-start-column="7" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1404/prc3/3.py">
+    <entry file="file://$PROJECT_DIR$/CP1404/prc3/3.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="10" selection-start-column="10" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1404/prc3/4.py">
+    <entry file="file://$PROJECT_DIR$/CP1404/prc3/4.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="5" selection-start-column="5" selection-end-column="5" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DRa13972.25145/KunBoZhuA1/CP1404-SP532018-STARTER-A1/assignment1.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DRa13972.30948/CP1404a1--IoAdhitama/assignment1.py" />
+    <entry file="file://$PROJECT_DIR$/1401/assessment2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1900" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DRa2596.37102/prac_03/password_entry.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DRa2596.37102/prac_03/scores.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DRa2596.37102/prac_03/temperatures.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DRa2596.37102/prac_03/convert_temps.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DRa2596.37102/prac_03/list_files.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DRa2596.37102/prac_03/password_checker.py" />
+    <entry file="file://$PROJECT_DIR$/CP1404/prc3/prac_03/temps_output.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CP1404/prc3/prac_03/temps_input.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CP1404/prc3/prac_03/list_files.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="20" lean-forward="true" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CP1404/prc3/prac_03/password_entry.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="9" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CP1404/prc3/prac_03/scores.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DRa2596.37102/prac_03/brokern_score_fixed.py" />
+    <entry file="file://$PROJECT_DIR$/CP1404/prc3/prac_03/password_checker.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CP1404/prc3/prac_03/convert_temps.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="3" lean-forward="true" selection-start-column="3" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CP1404/prc3/prac_03/temperatures.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="36" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CP1404/prc3/prac_03/brokern_score_fixed.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="15" lean-forward="true" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/CP1404a1--IoAdhitama/assignment1.py" />
+    <entry file="file://$USER_HOME$/Desktop/KunBoZhuA1/CP1404-SP532018-STARTER-A1/1.py" />
+    <entry file="file://$USER_HOME$/Desktop/CP1404a1--IoAdhitama/2.py" />
+    <entry file="file://$USER_HOME$/Desktop/KunBoZhuA1/CP1404-SP532018-STARTER-A1/assignment1.py" />
     <entry file="file://$PROJECT_DIR$/assessment/assignment-01-Gulawen/assignment1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+        <state relative-caret-position="619">
+          <caret line="33" column="40" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CP1404/prc4/lists_warmup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="4" selection-start-column="4" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CP1404/prc5/state_names.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CP1404/prc5/hex_colours.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="43" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CP1404/prc5/word_occurences.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1404/prc4/scores.py" />
+    <entry file="file://$PROJECT_DIR$/CP1404/prc4/sorting.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CP1404/prc4/quick_picks.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CP1404/prc4/List_exercise.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CP1404/prc4/list_comprehensions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CP1404/prc4/total_income.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1404/prc6/car.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="28" column="23" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1404/prc6/used_car.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="6" lean-forward="true" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/-2051142491/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="844">
+          <caret line="815" column="8" selection-start-line="815" selection-start-column="8" selection-end-line="815" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CP1404/prac_06/languages.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CP1404/prac_06/programming_language.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-95">
+          <caret line="2" column="65" selection-start-line="2" selection-start-column="65" selection-end-line="2" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CP1404/prac_06/car.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CP1404/prac_06/used_cars.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="5" lean-forward="true" selection-start-line="3" selection-start-column="5" selection-end-line="4" />
         </state>
       </provider>
     </entry>
