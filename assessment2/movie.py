@@ -8,14 +8,17 @@ class Movie:
 
     def __str__(self):
         """Display an announcement when a movie is inputed"""
-        if self.movie_to_watch =="w":
+        if self.movie_to_watch == "w":
             movie_to_watch ="wathced"
             return ("You have already watched {}".format(self.title))
+
         else:
-            movie_to_watch="u"
+            movie_to_watch = "u"
             return ("{} from {} watched ".format(self.title, self.year))
+
 
     def mark_watched(self):
         """Mark the movie watched"""
         self.movie_to_watch = 'w'
         return self.movie_to_watch
+
