@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="72b46738-20e0-4225-aa1c-d4d5aee2ffd1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assessment/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assessment/movie.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assessment2/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assessment2/movie.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -334,7 +332,8 @@
       <workItem from="1578554229339" duration="7864000" />
       <workItem from="1578576516353" duration="1698000" />
       <workItem from="1578911194029" duration="148000" />
-      <workItem from="1578988052417" duration="1234000" />
+      <workItem from="1578988052417" duration="1253000" />
+      <workItem from="1579003605066" duration="1218000" />
     </task>
     <task id="LOCAL-00001" summary="hhhh">
       <created>1574929270564</created>
@@ -497,7 +496,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578576667135</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="final">
+      <created>1578989306094</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1578989306094</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TodoView" selected-index="1">
@@ -523,10 +529,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="final" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="372" y="6" key="CommitChangelistDialog2" timestamp="1578576662507">
+    <state x="372" y="6" key="CommitChangelistDialog2" timestamp="1578989303153">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="372" y="6" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1578576662507" />
+    <state x="372" y="6" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1578989303153" />
     <state width="1493" height="172" key="GridCell.Tab.0.bottom" timestamp="1578911345115">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -547,39 +553,18 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="270" y="55" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1578304185078" />
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1578576652255">
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1578989306813">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1578576652255" />
-    <state x="449" y="237" key="com.intellij.ide.util.TipDialog" timestamp="1578988080083">
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1578989306813" />
+    <state x="449" y="237" key="com.intellij.ide.util.TipDialog" timestamp="1579003607027">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="449" y="237" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1578988080083" />
+    <state x="449" y="237" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1579003607027" />
     <state x="0" y="23" width="642" height="801" key="find.popup" timestamp="1578988132590">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="0" y="23" width="642" height="801" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1578988132590" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/assessment/assignment-01-Gulawen/assignment1.py</url>
-          <line>32</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/assessment/assignment-01-Gulawen/assignment1.py</url>
-          <line>61</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/assessment/assignment-01-Gulawen/assignment1.py</url>
-          <line>137</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/pycharm$PAtask3.coverage" NAME="PAtask3 Coverage Results" MODIFIED="1567092790747" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/Prac5" />
