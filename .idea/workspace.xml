@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="72b46738-20e0-4225-aa1c-d4d5aee2ffd1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assessment2/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/assessment2/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assessment2/movie.py" beforeDir="false" afterPath="$PROJECT_DIR$/assessment2/movie.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,7 +37,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_COMMON_BRANCH" value="master" />
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/assessment2" />
     <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="ProjectId" id="1W0vPOj2h5tOjF1Gb8f05sG0VZD" />
@@ -332,7 +334,10 @@
       <workItem from="1578576516353" duration="1698000" />
       <workItem from="1578911194029" duration="148000" />
       <workItem from="1578988052417" duration="1253000" />
-      <workItem from="1579003605066" duration="1854000" />
+      <workItem from="1579003605066" duration="1906000" />
+      <workItem from="1579054668250" duration="963000" />
+      <workItem from="1579062784984" duration="356000" />
+      <workItem from="1579063546244" duration="374000" />
     </task>
     <task id="LOCAL-00001" summary="hhhh">
       <created>1574929270564</created>
@@ -509,7 +514,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579004947954</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="finish the movie.py">
+      <created>1579005481827</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1579005481827</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TodoView" selected-index="1">
@@ -532,13 +544,18 @@
     <MESSAGE value="real final one" />
     <MESSAGE value="the real final one" />
     <MESSAGE value="final" />
-    <option name="LAST_COMMIT_MESSAGE" value="final" />
+    <MESSAGE value="finish the movie.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="finish the movie.py" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="372" y="6" key="CommitChangelistDialog2" timestamp="1579005480670">
+    <state x="372" y="6" key="CommitChangelistDialog2" timestamp="1579064384512">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="372" y="6" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1579005480670" />
+    <state x="372" y="6" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1579064384512" />
+    <state x="548" y="154" key="FileChooserDialogImpl" timestamp="1579063896767">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="548" y="154" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1579063896767" />
     <state width="1493" height="172" key="GridCell.Tab.0.bottom" timestamp="1578911345115">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -559,14 +576,14 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="270" y="55" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1578304185078" />
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1579004979584">
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1579005504236">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1579004979584" />
-    <state x="449" y="237" key="com.intellij.ide.util.TipDialog" timestamp="1579003607027">
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1579005504236" />
+    <state x="449" y="237" key="com.intellij.ide.util.TipDialog" timestamp="1579062783861">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="449" y="237" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1579003607027" />
+    <state x="449" y="237" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1579062783861" />
     <state x="0" y="23" width="642" height="801" key="find.popup" timestamp="1578988132590">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
