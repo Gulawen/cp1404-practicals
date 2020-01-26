@@ -1,24 +1,20 @@
+
 class Movie:
-    def __init__(self, title="", category="", year=0, movie_to_watch=""):
-        """Determine items a movie would help"""
+    def __init__(self, title="", year=0, category="", is_watched=False):
         self.category = category
         self.title = title
         self.year = year
-        self.movie_to_watch = movie_to_watch
+        self.is_watched = is_watched
 
     def __str__(self):
-        """Display an announcement when a movie is inputed"""
-        if self.movie_to_watch == "w":
-            movie_to_watch ="wathced"
-            return ("You have already watched {}".format(self.title))
-
+        if self.is_watched:
+            watched = "w"
         else:
-            movie_to_watch = "u"
-            return ("{} from {} watched ".format(self.title, self.year))
+            watched = "u"
+        return "{0} {1} {2} {3}".format(self.title, self.year, self.category, watched)
 
+    def watched(self):
+        self.is_watched = True
 
-    def mark_watched(self):
-        """Mark the movie watched"""
-        self.movie_to_watch = 'w'
-        return self.movie_to_watch
-
+    def unwatched(self):
+        self.is_watched = False
